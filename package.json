@@ -16,5 +16,8 @@
     "url": "https://github.com/oxyenenen/testbot/issues"
   },
   "homepage": "https://github.com/oxyenenen/testbot#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
 }
